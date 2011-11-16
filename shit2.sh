@@ -1,6 +1,8 @@
 #!/bin/bash
 # Idea Original de persand (Per Sandström) 
 # URL https://github.com/persand
+# https://gist.github.com/1370410
+# Thanks to Chicosoftware (https://github.com/chicosoftware) for testing
 # Una implementacion de Jorge Brunal a.k.a. Diniremix 
 
 if [ $# -le 0 ];then 

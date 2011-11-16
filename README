@@ -1,0 +1,11 @@
+Fork a Bash script for github.com/x URL:s 
+Original idea for https://github.com/persand
+https://gist.github.com/1370410
+
+Some modifications to original Shit because when function calls, not sending the parameters and the option if [ -n "$ 2" ] is not validated and jumped default option 1.
+
+Parameters are now stored in variables and used within the main function.
+
+Thanks to Chicosoftware (https://github.com/chicosoftware) for testing
+
+English translation by Google Translate xD
